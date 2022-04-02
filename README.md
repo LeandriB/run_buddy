@@ -21,10 +21,9 @@ View a [live preview](https://leandrib.github.io/run_buddy/privacy-policy.html) 
 
 ## Attributions
 
-* Starter Code by [Udacity](https://github.com/udacity/fend/tree/refresh-2019/projects/landing-page)
-* [Just Markup](https://justmarkup.com/notes/2017-07-05-my-approach-on-using-id-class-and-data-attributes-in-html-css-and-javascript/) helped me to understand the use of ID, Class and data attributes.
-* How to set a section as active solution by 
-[Udacity Knowledge](https://knowledge.udacity.com/questions/72562)
-* [Hiddevries](https://hiddedevries.nl/en/blog/2018-12-10-scroll-an-element-into-the-center-of-the-viewport) helped me to understand the scrollIntoView and how to center an element.
-* Example of how to create a button by [David Cochran on Codepen](https://codepen.io/davidcochran/pen/WbWXoa)
-* Hide/Show navigation bar on scroll how to [W3Schools](https://www.w3schools.com/howto/howto_js_navbar_hide_scroll.asp)
+* [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+* HTML [classes](https://www.w3schools.com/html/html_classes.asp)
+* HTML [ID](https://www.w3schools.com/html/html_id.asp) attributes
+* Intro to CSS [Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
+* [CSS Positioning](https://www.w3schools.com/css/css_positioning.asp)
+* [CSS Overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow)
