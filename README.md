@@ -12,12 +12,16 @@ OR
 
 ## Live Preview
 
-View a [live preview](https://leandrib.github.io/run_buddy/privacy-policy.html) of my project.
+View a [live preview](https://leandrib.github.io/run_buddy/) of my project.
 
 ## Dependencies
 
 * HTML
 * CSS
+
+## Screenshot
+
+![Run Buddy Preview](./assets/images/run_buddy_design.jpeg)
 
 ## Attributions
 
@@ -27,3 +31,6 @@ View a [live preview](https://leandrib.github.io/run_buddy/privacy-policy.html) 
 * Intro to CSS [Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 * [CSS Positioning](https://www.w3schools.com/css/css_positioning.asp)
 * [CSS Overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow)
+
+## Contribution
+Made with ❤️ by Leandri B
