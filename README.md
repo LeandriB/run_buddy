@@ -1,4 +1,4 @@
-# RUN BUDDY
+# Run Buddy
 
 ## About
 
