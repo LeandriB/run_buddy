@@ -1,4 +1,4 @@
-# RUN BUDDY
+# Run Buddy, Inc
 
 ## About
 
@@ -34,3 +34,5 @@ View a [live preview](https://leandrib.github.io/run_buddy/) of my project.
 
 ## Contribution
 Made with ❤️ by Leandri B
+
+### ©️2019 Run Buddy, Inc 
